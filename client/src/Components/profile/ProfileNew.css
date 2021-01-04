@@ -1,0 +1,38 @@
+.profTop {
+  width: auto;
+  margin: 15px auto !important;
+  background-color: rgb(89, 98, 136) !important;
+  border-radius: 10px;
+  display: flex !important;
+  flex-direction: row;
+  justify-content: space-between;
+  color: gold;
+}
+.round-img {
+  width: 150px !important;
+}
+.large {
+  text-transform: capitalize;
+  color: gold;
+  font-size: large;
+}
+.loccation {
+  text-transform: capitalize;
+}
+.avatarSocial {
+  display: flex;
+  flex-direction: column;
+}
+.lead {
+  font-size: large;
+}
+/*-------------------------------*/
+
+/*-------------------------------*/
+.proBtns {
+  display: flex;
+  justify-content: space-around;
+}
+.profPro {
+  background-color: rgb(255, 255, 255) !important;
+}

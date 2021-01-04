@@ -1,0 +1,5 @@
+@import "~antd/dist/antd.css";
+
+.demo-loadmore-list {
+  min-height: 350px;
+}
